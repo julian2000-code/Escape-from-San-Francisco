@@ -1,0 +1,40 @@
+{
+  "name": "escape-from-san-francisco",
+  "version": "0.1.0",
+  "description": "Escape from San Francisco: Extraction Shooter Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julian2000-code/Escape-from-San-Francisco.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/julian2000-code/Escape-from-San-Francisco/issues"
+  },
+  "homepage": "https://github.com/julian2000-code/Escape-from-San-Francisco#readme",
+  "dependencies": {
+    "better-sqlite3": "^12.10.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "nostr-tools": "^2.23.5",
+    "phaser": "^4.1.0",
+    "socket.io": "^4.8.3",
+    "uuid": "^14.0.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.9.2",
+    "@types/uuid": "^10.0.0",
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.16"
+  }
+}
